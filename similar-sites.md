@@ -2,11 +2,11 @@
 
 https://www.beyondsportsnetwork.com/
 
-http://www.maxpreps.com/
+http://www.maxpreps.com/ high school sports site
 
-https://www.hudl.com/
+https://www.hudl.com/ performance analysis tools
 
-https://playerhunter.com/
+https://playerhunter.com/ croatian site with a lot of bugs
 
 http://www.sportsuid.com/
 
